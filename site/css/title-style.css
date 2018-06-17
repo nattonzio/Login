@@ -1,0 +1,13 @@
+#title-cabecera{
+     font-family: 'Century Gothic';
+    font-size: 16pt;
+    color: #285B9A;
+}
+
+.md-card-toolbar-heading-text-cabecera {
+    font: 500 14px/50px Roboto,sans-serif;
+    color: #212121;
+    margin: 0;
+    overflow: hidden;
+    height: 48px;
+}
